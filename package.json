@@ -1,0 +1,9 @@
+{
+  "name": "orbit-data",
+  "version": "1.0.0",
+  "description": "Reset and backup script for orbit-data",
+  "main": "reset.js",
+  "scripts": {
+    "start": "node reset.js"
+  }
+}
