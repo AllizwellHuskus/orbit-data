@@ -1,9 +1,12 @@
 {
-  "name": "orbit-data",
+  "name": "orbit-reset",
   "version": "1.0.0",
-  "description": "Reset and backup script for orbit-data",
+  "description": "Reset bulanan untuk PP dan PPG Duta",
   "main": "reset.js",
   "scripts": {
-    "start": "node reset.js"
-  }
+    "reset": "node reset.js"
+  },
+  "author": "Allizwell Huskus",
+  "license": "MIT",
+  "dependencies": {}
 }
