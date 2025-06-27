@@ -1,21 +1,24 @@
 const fs = require('fs');
 
-const path = 'duta.json';
-const data = JSON.parse(fs.readFileSync(path, 'utf8'));
+// Load file duta.json
+let data = require('./duta.json');
 
-// Buat backup
-const now = new Date();
-const bulan = String(now.getMonth() + 1).padStart(2, '0');
-const tahun = now.getFullYear();
-const backupFile = `backup_${tahun}_${bulan}.json`;
+// Buat backup otomatis dengan tanggal
+const tanggal = new Date().toISOString().split('T')[0];
+fs.writeFileSync(`backup_duta_${tanggal}.json`, JSON.stringify(data, null, 2));
 
-fs.writeFileSync(backupFile, JSON.stringify(data, null, 2));
-
-// Reset semua pp dan ppg ke 0, kecuali ongoing tetap ongoing
+// Reset semua PP dan PPG yang berupa angka ke 0
 for (const key in data) {
-  if (typeof data[key].pp === 'number') data[key].pp = 0;
-  if (typeof data[key].ppg === 'number') data[key].ppg = 0;
+  if (typeof data[key].pp === 'number') {
+    data[key].pp = 0;
+  }
+
+  if (typeof data[key].ppg === 'number') {
+    data[key].ppg = 0;
+  }
 }
 
-fs.writeFileSync(path, JSON.stringify(data, null, 2));
-console.log('Backup & Reset done.');
+// Simpan kembali ke duta.json
+fs.writeFileSync('duta.json', JSON.stringify(data, null, 2));
+
+console.log(`Sukses: Semua PP & PPG direset ke 0. Backup dibuat: backup_duta_${tanggal}.json`);
