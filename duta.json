@@ -76,12 +76,13 @@
     "minera": [],
     "ppg": 0
   },
-  "Dahlia": {
-  "nama": "Dahlia",
-  "pp": 0,
-  "vidya": "allizwell_huskus",
-  "satria": "allizwell_huskus",
-  "minera": [],
-  "ppg": 0
-  },
+  "dahlia": {
+    "nama": "Dahlia",
+    "pp": 0,
+    "vidya": "allizwell_huskus",
+    "satria": "allizwell_huskus",
+    "pratama": [],
+    "minera": [],
+    "ppg": 0
+  }
 }
