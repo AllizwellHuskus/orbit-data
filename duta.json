@@ -1,99 +1,154 @@
 {
-    "allizwell_huskus": {
-        "nama": "Allizwell Huskus",
-        "pp": 0,
-        "vidya": null,
-        "satria": null,
-        "pratama": [
-            "haryati",
-            "fadil_muhammad_siregar",
-            "m_syukri_nasution",
-            "mhd_padly_harahap",
-            "muhammad_kadirun_siregar",
-            "al_azhar_fadhli_lubis",
-            "dahlia"
-        ],
-        "minera": [
-            "haryati",
-            "fadil_muhammad_siregar",
-            "m_syukri_nasution",
-            "mhd_padly_harahap",
-            "muhammad_kadirun_siregar",
-            "al_azhar_fadhli_lubis",
-            "dahlia"
-        ],
-        "ppg": 0
-    },
-    "haryati": {
-        "nama": "Haryati",
-        "pp": 0,
-        "vidya": "allizwell_huskus",
-        "satria": "allizwell_huskus",
-        "pratama": [],
-        "minera": [],
-        "ppg": 0
-    },
-    "fadil_muhammad_siregar": {
-        "nama": "Fadil Muhammad Siregar",
-        "pp": 0,
-        "vidya": "allizwell_huskus",
-        "satria": "allizwell_huskus",
-        "pratama": [],
-        "minera": [],
-        "ppg": 0
-    },
-    "m_syukri_nasution": {
-        "nama": "M. Syukri Nasution",
-        "pp": 0,
-        "vidya": "allizwell_huskus",
-        "satria": "allizwell_huskus",
-        "pratama": [],
-        "minera": [],
-        "ppg": 0
-    },
-    "mhd_padly_harahap": {
-        "nama": "Mhd. Padly Harahap",
-        "pp": 0,
-        "vidya": "allizwell_huskus",
-        "satria": "allizwell_huskus",
-        "pratama": [],
-        "minera": [],
-        "ppg": 0
-    },
-    "muhammad_kadirun_siregar": {
-        "nama": "Muhammad Kadirun Siregar",
-        "pp": 0,
-        "vidya": "allizwell_huskus",
-        "satria": "allizwell_huskus",
-        "pratama": [],
-        "minera": [],
-        "ppg": 0
-    },
-    "al_azhar_fadhli_lubis": {
-        "nama": "Al Azhar Fadhli Lubis",
-        "pp": 0,
-        "vidya": "allizwell_huskus",
-        "satria": "allizwell_huskus",
-        "pratama": [],
-        "minera": [],
-        "ppg": 0
-    },
-    "dahlia": {
-        "nama": "Dahlia",
-        "pp": 0,
-        "vidya": "allizwell_huskus",
-        "satria": "allizwell_huskus",
-        "pratama": [],
-        "minera": [],
-        "ppg": 0
-    },
-    "fuad_hasan": {
-  "nama": "Fuad Hasan",
-  "pp": 0,
-  "vidya": "haryati",    
-  "satria": "haryati",
-  "pratama": [],
-  "minera": [],
-  "ppg": 0
-    }
+  "allizwell_huskus": {
+    "nama": "Allizwell Huskus",
+    "pp": 0,
+    "vidya": null,
+    "satria": null,
+    "pratama": [
+      "haryati",
+      "fadil_muhammad_siregar",
+      "m_syukri_nasution",
+      "mhd_padly_harahap",
+      "muhammad_kadirun_siregar",
+      "al_azhar_fadhli_lubis",
+      "dahlia"
+    ],
+    "minera": [
+      "haryati",
+      "fadil_muhammad_siregar",
+      "m_syukri_nasution",
+      "mhd_padly_harahap",
+      "muhammad_kadirun_siregar",
+      "al_azhar_fadhli_lubis",
+      "dahlia",
+      "andri_hansaso_nasution",
+      "zulkifli",
+      "nisa_agestina_simamora",
+      "al_farizi"
+    ],
+    "ppg": 0
+  },
+  "haryati": {
+    "nama": "Haryati",
+    "pp": 0,
+    "vidya": "allizwell_huskus",
+    "satria": "allizwell_huskus",
+    "pratama": [
+      "fuad_hasan",
+      "nasar_perdian"
+    ],
+    "minera": [
+      "fuad_hasan",
+      "nasar_perdian",
+      "yogi_nanda_daulay"
+    ],
+    "ppg": 0
+  },
+  "fadil_muhammad_siregar": {
+    "nama": "Fadil Muhammad Siregar",
+    "pp": 0,
+    "vidya": "allizwell_huskus",
+    "satria": "allizwell_huskus",
+    "pratama": [],
+    "minera": [],
+    "ppg": 0
+  },
+  "m_syukri_nasution": {
+    "nama": "M. Syukri Nasution",
+    "pp": 0,
+    "vidya": "allizwell_huskus",
+    "satria": "allizwell_huskus",
+    "pratama": [
+      "andri_hansaso_nasution",
+      "zulkifli"
+    ],
+    "minera": [],
+    "ppg": 0
+  },
+  "mhd_padly_harahap": {
+    "nama": "Mhd. Padly Harahap",
+    "pp": 0,
+    "vidya": "allizwell_huskus",
+    "satria": "allizwell_huskus",
+    "pratama": [],
+    "minera": [],
+    "ppg": 0
+  },
+  "muhammad_kadirun_siregar": {
+    "nama": "Muhammad Kadirun Siregar",
+    "pp": 0,
+    "vidya": "allizwell_huskus",
+    "satria": "allizwell_huskus",
+    "pratama": [],
+    "minera": [],
+    "ppg": 0
+  },
+  "al_azhar_fadhli_lubis": {
+    "nama": "Al Azhar Fadhli Lubis",
+    "pp": 0,
+    "vidya": "allizwell_huskus",
+    "satria": "allizwell_huskus",
+    "pratama": [],
+    "minera": [],
+    "ppg": 0
+  },
+  "dahlia": {
+    "nama": "Dahlia",
+    "pp": 0,
+    "vidya": "allizwell_huskus",
+    "satria": "allizwell_huskus",
+    "pratama": [
+      "nisa_agestina_simamora"
+    ],
+    "minera": [],
+    "ppg": 0
+  },
+  "fuad_hasan": {
+    "nama": "Fuad Hasan",
+    "pp": 0,
+    "vidya": "haryati",
+    "satria": "haryati",
+    "pratama": [
+      "yogi_pratama",
+      "al_farizi"
+    ],
+    "minera": [],
+    "ppg": 0
+  },
+  "yogi_nanda_daulay": {
+    "nama": "Yogi_Nanda_Daulay",
+    "pp": 0,
+    "vidya": "fuad_hasan",
+    "satria": "haryati",
+    "pratama": [],
+    "minera": [],
+    "ppg": 0
+  },
+  "nasar_perdian": {
+    "nama": "Nasar_Perdian",
+    "pp": 0,
+    "vidya": "haryati",
+    "satria": "haryati",
+    "pratama": [],
+    "minera": [],
+    "ppg": 0
+  },
+  "al_farizi": {
+    "nama": "Al Farizi",
+    "pp": 0,
+    "vidya": "fuad_hasan",
+    "satria": "haryati",
+    "pratama": [],
+    "minera": [],
+    "ppg": 0
+  },
+  "andri_hansaso_nasution": {
+    "nama": "Andri Hansaso Nasution",
+    "pp": 0,
+    "vidya": "m_syukri_nasution",
+    "satria": "allizwell_huskus",
+    "pratama": [],
+    "minera": [],
+    "ppg": 0
+  }
 }
