@@ -124,7 +124,7 @@
     "minera": [],
     "ppg": 0
   },
-    "nisa_agestina_simamora": {
+  "nisa_agestina_simamora": {
     "nama": "Nisa Agestina Simamora",
     "pp": 5,
     "vidya": "dahlia",
@@ -132,4 +132,5 @@
     "pratama": [],
     "minera": [],
     "ppg": 0
+  }
 }
