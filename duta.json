@@ -1,7 +1,7 @@
 {
   "allizwell_huskus": {
     "nama": "Allizwell Huskus",
-    "pp": 0,
+    "pp": 100,
     "vidya": null,
     "satria": null,
     "pratama": [
@@ -89,7 +89,7 @@
   "dahlia": {
     "nama": "Dahlia",
     "pp": 0,
-    "vidya": "allizwell_huskus",
+    "vidya": "fadil_muhammad_siregar",
     "satria": "allizwell_huskus",
     "pratama": [
       "nisa_agestina_simamora"
@@ -118,13 +118,13 @@
   "dedi_saputra": {
     "nama": "Dedi_Saputra",
     "pp": 0,
-    "vidya": "fadil_muhammad",
+    "vidya": "fadil_muhammad_siregar",
     "satria": "allizwell_Huskus",
     "pratama": [],
     "minera": [],
     "ppg": 0
   },
-    "nisa_agstina_simamora": {
+    "nisa_agestina_simamora": {
     "nama": "Nisa Agestina Simamora",
     "pp": 5,
     "vidya": "dahlia",
