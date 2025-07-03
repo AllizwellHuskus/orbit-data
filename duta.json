@@ -1,136 +1,122 @@
-{
-  "allizwell_huskus": {
-    "nama": "Allizwell Huskus",
-    "pp": 100,
-    "vidya": null,
-    "satria": null,
-    "pratama": [
-      "haryati",
-      "fadil_muhammad_siregar",
-      "m_syukri_nasution",
-      "mhd_padly_harahap",
-      "muhammad_kadirun_siregar",
-      "al_azhar_fadhli_lubis",
-      "dahlia"
-    ],
-    "minera": [
-      "haryati",
-      "fadil_muhammad_siregar",
-      "m_syukri_nasution",
-      "mhd_padly_harahap",
-      "muhammad_kadirun_siregar",
-      "al_azhar_fadhli_lubis",
-      "dahlia",
-      "nisa_agestina_simamora",
-      "dedi_saputra"
-    ],
-    "ppg": 0
-  },
-  "haryati": {
-    "nama": "Haryati",
-    "pp": 0,
-    "vidya": "allizwell_huskus",
-    "satria": "allizwell_huskus",
-    "pratama": [
-      "fuad_hasan",
-      "yogi_nanda_daulay"
-    ],
-    "minera": [
-      "fuad_hasan",
-      "yogi_nanda_daulay"
-    ],
-    "ppg": 0
-  },
-  "fadil_muhammad_siregar": {
-    "nama": "Fadil Muhammad Siregar",
-    "pp": 0,
-    "vidya": "allizwell_huskus",
-    "satria": "allizwell_huskus",
-    "pratama": ["dahlia", "dedi_saputra"],
-    "minera": [],
-    "ppg": 0
-  },
-  "m_syukri_nasution": {
-    "nama": "M. Syukri Nasution",
-    "pp": 0,
-    "vidya": "allizwell_huskus",
-    "satria": "allizwell_huskus",
-    "pratama": [],
-    "minera": [],
-    "ppg": 0
-  },
-  "mhd_padly_harahap": {
-    "nama": "Mhd. Padly Harahap",
-    "pp": 0,
-    "vidya": "allizwell_huskus",
-    "satria": "allizwell_huskus",
-    "pratama": [],
-    "minera": [],
-    "ppg": 0
-  },
-  "muhammad_kadirun_siregar": {
-    "nama": "Muhammad Kadirun Siregar",
-    "pp": 0,
-    "vidya": "allizwell_huskus",
-    "satria": "allizwell_huskus",
-    "pratama": [],
-    "minera": [],
-    "ppg": 0
-  },
-  "al_azhar_fadhli_lubis": {
-    "nama": "Al Azhar Fadhli Lubis",
-    "pp": 0,
-    "vidya": "allizwell_huskus",
-    "satria": "allizwell_huskus",
-    "pratama": [],
-    "minera": [],
-    "ppg": 0
-  },
-  "dahlia": {
-    "nama": "Dahlia",
-    "pp": 0,
-    "vidya": "fadil_muhammad_siregar",
-    "satria": "allizwell_huskus",
-    "pratama": [
-      "nisa_agestina_simamora"
-    ],
-    "minera": [],
-    "ppg": 0
-  },
-  "fuad_hasan": {
-    "nama": "Fuad Hasan",
-    "pp": 0,
-    "vidya": "haryati",
-    "satria": "haryati",
-    "pratama": [],
-    "minera": [],
-    "ppg": 0
-  },
-  "yogi_nanda_daulay": {
-    "nama": "Yogi Nanda Daulay",
-    "pp": 0,
-    "vidya": "haryati",
-    "satria": "haryati",
-    "pratama": [],
-    "minera": [],
-    "ppg": 0
-  },
-  "dedi_saputra": {
-    "nama": "Dedi Saputra",
-    "pp": 0,
-    "vidya": "fadil_muhammad_siregar",
-    "satria": "allizwell_Huskus",
-    "pratama": [],
-    "minera": [],
-    "ppg": 0
-  },
-  "nisa_agestina_simamora": {
-    "nama": "Nisa Agestina Simamora",
-    "pp": 5,
-    "vidya": "dahlia",
-    "satria": "allizwell_Huskus",
-    "pratama": [],
-    "minera": [],
-    "ppg": 0
-  }
-}
+[
+    {
+        "Key": "allizwell_huskus",
+        "Nama Duta": "Allizwell Huskus",
+        "Key JSON": "allizwell_huskus",
+        "PP": 100,
+        "Duta Satria": "",
+        "Duta Vidya": "",
+        "Pratama": "",
+        "Minera": ""
+    },
+    {
+        "Key": "fadil_muhammad_siregar",
+        "Nama Duta": "Fadil Muhammad Siregar",
+        "Key JSON": "fadil_muhammad_siregar",
+        "PP": 0,
+        "Duta Satria": "Allizwell Huskus",
+        "Duta Vidya": "Allizwell Huskus",
+        "Pratama": "fadil_muhammad_siregar, haryati, m_syukri_nasution, mhd_padly_harahapm al_azhar_fadhli_lubis, muhammad_kadirun_siregar",
+        "Minera": "fadil_muhammad_siregar, haryati, m_syukri_nasution, mhd_padly_harahapm al_azhar_fadhli_lubis, muhammad_kadirun_siregar, dahlia, dedi_saputra, nisa_agestina_simamora"
+    },
+    {
+        "Key": "haryati",
+        "Nama Duta": "Haryati",
+        "Key JSON": "haryati",
+        "PP": 0,
+        "Duta Satria": "Allizwell Huskus",
+        "Duta Vidya": "Allizwell Huskus",
+        "Pratama": "dahlia, dedi_saputra",
+        "Minera": ""
+    },
+    {
+        "Key": "m_syukri_nasution",
+        "Nama Duta": "M Syukri Nasution",
+        "Key JSON": "m_syukri_nasution",
+        "PP": 0,
+        "Duta Satria": "Allizwell Huskus",
+        "Duta Vidya": "Allizwell Huskus",
+        "Pratama": "",
+        "Minera": ""
+    },
+    {
+        "Key": "mhd_padly_harahap",
+        "Nama Duta": "Mhd Padly Harahap",
+        "Key JSON": "mhd_padly_harahap",
+        "PP": 0,
+        "Duta Satria": "Allizwell Huskus",
+        "Duta Vidya": "Allizwell Huskus",
+        "Pratama": "",
+        "Minera": ""
+    },
+    {
+        "Key": "al_azhar_fadhli_lubis",
+        "Nama Duta": "Al Azhar Fadhli Lubis",
+        "Key JSON": "al_azhar_fadhli_lubis",
+        "PP": 0,
+        "Duta Satria": "Allizwell Huskus",
+        "Duta Vidya": "Allizwell Huskus",
+        "Pratama": "",
+        "Minera": ""
+    },
+    {
+        "Key": "muhammad_kadirun_siregar",
+        "Nama Duta": "Muhammad Kadirun Siregar",
+        "Key JSON": "muhammad_kadirun_siregar",
+        "PP": 0,
+        "Duta Satria": "Allizwell Huskus",
+        "Duta Vidya": "Allizwell Huskus",
+        "Pratama": "",
+        "Minera": ""
+    },
+    {
+        "Key": "fuad_hasan",
+        "Nama Duta": "Fuad Hasan",
+        "Key JSON": "fuad_hasan",
+        "PP": 0,
+        "Duta Satria": "Haryati",
+        "Duta Vidya": "Haryati",
+        "Pratama": "",
+        "Minera": ""
+    },
+    {
+        "Key": "yogi_nanda_daulay",
+        "Nama Duta": "Yogi Nanda Daulay",
+        "Key JSON": "yogi_nanda_daulay",
+        "PP": 0,
+        "Duta Satria": "Haryati",
+        "Duta Vidya": "Haryati",
+        "Pratama": "",
+        "Minera": ""
+    },
+    {
+        "Key": "dahlia",
+        "Nama Duta": "Dahlia",
+        "Key JSON": "dahlia",
+        "PP": 0,
+        "Duta Satria": "Allizwell Huskus",
+        "Duta Vidya": "Fadil Muhammad Siregar",
+        "Pratama": "nisa_agestina_simamora",
+        "Minera": ""
+    },
+    {
+        "Key": "dedi_saputra",
+        "Nama Duta": "Dedi Saputra",
+        "Key JSON": "dedi_saputra",
+        "PP": 0,
+        "Duta Satria": "Allizwell Huskus",
+        "Duta Vidya": "Fadil Muhammad Siregar",
+        "Pratama": "",
+        "Minera": ""
+    },
+    {
+        "Key": "nisa_agestina_simamora",
+        "Nama Duta": "Nisa Agestina Simamora",
+        "Key JSON": "nisa_agestina_simamora",
+        "PP": 5,
+        "Duta Satria": "Allizwell Huskus",
+        "Duta Vidya": "Dahlia",
+        "Pratama": "",
+        "Minera": ""
+    }
+]
